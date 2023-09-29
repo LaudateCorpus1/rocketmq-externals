@@ -18,7 +18,7 @@
         <rocketmq.version>4.5.2</rocketmq.version>
 
         <hudi.version>0.8.0</hudi.version>
-        <avro.version>1.10.2</avro.version>
+        <avro.version>1.11.3</avro.version>
         <parquet.version>1.10.1</parquet.version>
     </properties>
 
